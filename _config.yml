@@ -1,14 +1,14 @@
 # Site settings
-title: Willian Justen - Desenvolvedor Front End
-description: A blog about lorem ipsum dolor sit amet
+title: Professional On Demand SiteCore Services
+description: Sitecore Mentoring
 baseurl: "/cards-jekyll-template" # the subpath of your site, e.g. /blog
 url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-email: anon@anon.com
-twitter_username: lorem_ipsum
+username: Saki
+user_description: Saki at SiteCore Managed Services
+email: ptsatheesh@gmail.com
+twitter_username: ptsatheesh
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
 disqus_username: lorem_ipsum
@@ -31,11 +31,11 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Series
+  - title: Mentoring Help
     url: /series
-  - title: Tags
+  - title: Training
     url: /tags
-  - title: About Me
+  - title: Projects
     url: /about
 
 # exclude my node related stuff
